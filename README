@@ -1,7 +1,4 @@
-echo "# DSBA-6165-Deep-Learning-Project" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Julian-Martin0723/DSBA-6165-Deep-Learning-Project.git
-git push -u origin main
+# NBA Performance Analysis Dashboard 
++ Create an interactive dashboard that provides insights into player and team performance from historical and real-time data. Create an interactive dashboard that provides insights into player and team performance from historical and real-time data.
+#
+#
