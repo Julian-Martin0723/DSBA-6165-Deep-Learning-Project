@@ -4,4 +4,3 @@
 + A dataset containing mammogram images with corresponding masks and labels will be utilized for supervised learning and performance assessment of the models.
 + The expected outcome is a comprehensive workflow for building and evaluating a deep learning-based system for breast cancer detection from mammogram images.
 #
-#
